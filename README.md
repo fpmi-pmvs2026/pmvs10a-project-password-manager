@@ -1,5 +1,5 @@
 ﻿# Project Name
-VaultKeeper
+VaultKeeper(52)
 
 ## Description
 VaultKeeper is a local Android password manager built with Kotlin and Jetpack Compose. The app stores data in a local Room database, encrypts passwords with AES/GCM, and protects access with a master password derived through PBKDF2. Users can create, edit, search, and organize credentials, then run breach checks through the Have I Been Pwned range API without sending raw passwords. The project also includes test coverage, CI workflows, and publishable documentation for repository wiki and GitHub Pages.
